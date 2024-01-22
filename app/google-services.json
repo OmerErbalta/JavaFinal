@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489352454668",
+    "project_id": "imgshare-e5ebd",
+    "storage_bucket": "imgshare-e5ebd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489352454668:android:9564569673782965400429",
+        "android_client_info": {
+          "package_name": "com.example.imgshare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbCvku6Lr9CTpe8GJg8RBrs8kWlxzcC_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
